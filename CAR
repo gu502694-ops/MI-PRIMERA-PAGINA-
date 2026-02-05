@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html Lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <title> mi primera página</title>
+</head>
+
+<body style="background-color: #FFC4ED;">
+<h1 style="color: #570237;font-family: courier new;">MI NOMBRE ES: Carla Nairi Gutiérrez Sánchez</h1>
+<p style="font-family: courier new;">Este es mi primer sitio web</p>
+
+<h2 style="text-align: center;font-family: courier new;">Datos sobre mi </h2>
+<p style="color: 570237; font-size:15px;text-aling: center; font-family: courier new;">Tengo 17 años, este año cumplo 18 y me gusta nadar</p> 
+<p style="color: 570237; font-size:15px;text-aling: center; font-family: courier new;" >Quiero estudiar Ing. Civil en la UNAM</p>
+
+<h3 style="font-family: courier new;"> Más informacion</h3>
+<ul style="font-family: courier new;">
+    <li>soy estudiante de prepa 1</li>
+    <li> me guata nadar, el TKD y a veces estudiar</li>
+    <li> amo escuchar musica y dormir
+</ul>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/9Gjlrd_YqaE?si=13JzNtpH2FOELRrh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/13ubrt8QOOCPljQ2FL1Kca?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
